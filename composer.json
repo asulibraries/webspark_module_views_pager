@@ -1,0 +1,9 @@
+{
+    "name": "asulibraries/webspark_module_views_pager",
+    "description": "Fork of Webspark's views pager module.",
+    "type": "drupal-module",
+    "license": "MIT",
+   
+    "require": {},
+    "version": "1.1"
+}
