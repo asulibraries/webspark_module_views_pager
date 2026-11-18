@@ -17,7 +17,7 @@ Drupal 10.x or 11.x
             "url": "https://github.com/asulibraries/webspark_module_views_pager"
         }
 ```
-2. Composer require the module - `composer require asulibraries/webspark_module_views_pager:dev-main`
+2. Composer require the module - `composer require asulibraries/webspark_module_views_pager:^2.0`
 
 ## How to use
 
