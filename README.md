@@ -6,7 +6,7 @@ Provides a ASU specific configurable pager for the views UI.
 
 ## Requirements
 
-Drupal 8.x, 9.x, or 10.x
+Drupal 10.x or 11.x
 
 ## Installation
 
@@ -21,5 +21,5 @@ Drupal 8.x, 9.x, or 10.x
 
 ## How to use
 
-- Create or edit a view
-- in the "PAGER" section select the ASU pager
+- Create or edit a view.
+- in the "PAGER" section select the ASU pager.
